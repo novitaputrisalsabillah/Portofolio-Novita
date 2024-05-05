@@ -1,0 +1,211 @@
+@media (max-width: 1360px) {
+	.max-width {
+		padding: 0 20px;
+	}
+
+	.website .text-wrapper-3 {
+		font-size: 60px;
+		line-height: 70px;
+	}
+	.website .text-wrapper-2 {
+		font-size: 16px;
+	}
+
+	.website .section-home {
+		flex-direction: column;
+		align-items: flex-start;
+	}
+
+	.website .novita {
+		margin: 0 auto;
+	}
+
+	.website .description,
+	.website .p,
+	.website .header-name,
+	.website .text-wrapper-3 {
+		width: auto;
+	}
+
+	.website .title {
+		margin-top: 60px;
+	}
+
+	.website .novita {
+		width: 400px;
+		height: 400px;
+	}
+
+	.website .circle {
+		width: 300px;
+		height: 300px;
+		top: 365px;
+	}
+
+	.website .photo {
+		width: 440px;
+		height: 400px;
+		margin-left: -170px;
+	}
+
+	.website .portofolio-project {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.website .div-3 {
+		width: 100%;
+	}
+
+	.website .image,
+	.website .img,
+	.website .image-2,
+	.website .image-3 {
+		width: 320px;
+		object-position: top left;
+	}
+}
+
+@media (max-width: 1280px) {
+	.website .wrapper-skill-experience {
+		flex-direction: column;
+		justify-content: flex-start;
+	}
+
+	.website .experiences {
+		justify-content: flex-start;
+	}
+}
+
+@media (max-width: 1200px) {
+	.max-width {
+		max-width: 100%;
+		margin: 0 auto;
+	}
+}
+
+@media (max-width: 992px) {
+	.website .div-3 {
+		flex-direction: column-reverse;
+		align-items: stretch;
+	}
+}
+
+@media (max-width: 768px) {
+	.wrapper-menu {
+		position: relative;
+	}
+
+	.website .menu {
+		display: none;
+		z-index: 99;
+		position: absolute;
+		top: 72px;
+		right: 20px;
+		background-color: #fff;
+		border-radius: 6px;
+		box-shadow: 0 0 8px rgba(0, 0, 0, 0.25);
+		padding: 16px 24px;
+	}
+
+	.website .div-wrapper {
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 18px;
+	}
+
+	.menu-icon {
+		display: block;
+	}
+}
+
+@media (max-width: 576px) {
+	.website .text-wrapper {
+		font-size: 20px;
+	}
+
+	.website .text-wrapper-3 {
+		font-size: 40px;
+		line-height: 50px;
+	}
+
+	.website .novita {
+		width: 100%;
+		height: 350px;
+	}
+
+	.website .photo {
+		width: 340px;
+		height: 320px;
+	}
+
+	.website .circle {
+		width: 260px;
+		height: 260px;
+	}
+
+	.website .text-wrapper-11,
+	.website .text-wrapper-16,
+	.website .do-you-have-a {
+		font-size: 32px;
+	}
+
+	.website .text-wrapper-6 {
+		font-size: 24px;
+	}
+
+	.website .text-wrapper-7,
+	.website .text-wrapper-9 {
+		font-size: 16px;
+	}
+
+	.website .text-wrapper-8 {
+		font-size: 18px;
+	}
+
+	.website .skill-information {
+		width: 100%;
+		padding: 24px;
+		height: 200px;
+	}
+
+	.website .logo {
+		width: 100%;
+		height: auto;
+	}
+
+	.website .image,
+	.website .img,
+	.website .image-2,
+	.website .image-3 {
+		height: 190px;
+		width: 100%;
+	}
+
+	.website .frame {
+		width: auto;
+	}
+
+	.website .button-view {
+		width: 100%;
+		padding: 0;
+	}
+
+	.website .text-project {
+		height: auto;
+	}
+
+	.website .text-wrapper-12,
+	.website .text-wrapper-13,
+	.website .text-wrapper-15 {
+		width: auto;
+	}
+
+	.website .social-media {
+		height: 40px;
+	}
+
+	.website .information-contact {
+		margin-top: 64px;
+	}
+}
